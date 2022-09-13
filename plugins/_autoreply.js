@@ -34,7 +34,7 @@ let fs = require('fs')
      if (m.mentionedJid.includes(this.user.jid) && m.isGroup) { 
              conn.sendMessage(m.chat, { 
              react: { 
-                     text: conn.pickRandom(['🤭', '😤', '😴']), 
+                     text: conn.pickRandom(['🏅', '🗿', '😝']), 
                      key: m.key 
              } 
      })         
@@ -55,7 +55,7 @@ let fs = require('fs')
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
                  sourceUrl: 'https://youtu.be/RlhkqeUDZrA/', 
-             title: 'Claraa San UwU', 
+             title: 'BACOT KONTOL', 
              body: '', 
            thumbnail: await (await fetch('https://telegra.ph/file/de1678007a368fe66c052.jpg')).buffer() 
          } 
@@ -74,8 +74,8 @@ let fs = require('fs')
     const ojam = Math.floor( Kurang % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
     const onet = Math.floor( Kurang % (1000 * 60 * 60) / (1000 * 60))
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
-        await this.setBio(`🎂️ Ultah Clara UwU : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
-⏲️ Runtime: ${uptime} | 🛰 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Only Group' : 'Public'} | 💌 Made Claraa UwU`).catch(_ => _)  
+        await this.setBio(`🎂️ Simple Bot WhatsApp Md : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
+⏲️ Runtime: ${uptime} | 🛰 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Only Group' : 'Public'} | Simple Bot WhatsApp Md`).catch(_ => _)  
           setting.status = new Date() * 1  
       } 
   
