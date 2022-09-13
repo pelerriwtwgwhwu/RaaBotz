@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝐂𝐥𝐚𝐫𝐚𝐚'
+global.WM = ' Simple Bot WhatsApp Md '
 global.linkgc = 'https://chat.whatsapp.com/Gapunya'
 global.linkig = 'https://www.instagram.com/inizenscuy'
 global.deslink = ''
